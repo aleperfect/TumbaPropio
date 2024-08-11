@@ -122,7 +122,7 @@ logger: pino({ level: 'silent' }),
 printQRInTerminal: opcion == '1' ? true : false,
 mobile: MethodMobile, 
 //browser: ['Chrome (Linux)', '', ''],
-browser: opcion == '1' ? ['LoliBot-MD', 'Edge', '1.0.0'] : methodCodeQR ? ['LoliBot-MD', 'Edge', '1.0.0'] : ["Ubuntu", "Chrome", "20.0.04"],
+browser: opcion == '1' ? ['𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔-MD', 'Edge', '1.0.0'] : methodCodeQR ? ['𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔-MD', 'Edge', '1.0.0'] : ["Ubuntu", "Chrome", "20.0.04"],
 auth: { creds: state.creds,
 keys: makeCacheableSignalKeyStore(state.keys, pino({ level: "fatal" }).child({ level: "fatal" })),
 },
@@ -331,8 +331,8 @@ conn.ev.off('connection.update', conn.connectionUpdate)
 conn.ev.off('creds.update', conn.credsUpdate)
 }
 
-conn.welcome = 'HOLAA!! @user ¿COMO ESTAS?😃\n\n『Bienvenido A *@subject*』\n\nUn gusto conocerte amig@ 🤗\n\n_Recuerda leer las reglas del grupo para no tener ningun problema 🧐_\n\n*Solo disfrutar de este grupo y divertite 🥳*`'
-conn.bye = 'Bueno, se fue @user 👋\n\nQue dios lo bendiga 😎`'
+conn.welcome = '*╔══════════════*\n*╟❧ @subject*\n*╠══════════════*\n*╟❧ @user*\n*╟❧ 𝙱𝙸𝙴𝙽𝚅𝙴𝙽𝙸𝙳𝙾/𝙰* \n*║*\n*╟❧ 𝙳𝙴𝚂𝙲𝚁𝙸𝙿𝙲𝙸𝙾𝙽 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾:*\n\n@desc\n\n*║*\n*╟❧ 𝙳𝙸𝚂𝙵𝚁𝚄𝚃𝙰 𝚃𝚄 𝙴𝚂𝚃𝙰𝙳𝙸𝙰!!*\n*╚══════════════*'
+conn.bye = '*╔══════════════*\n*╟❧ @user*\n*╟❧ 𝗦𝗘 𝗦𝗔𝗟𝗜𝗢 𝗗𝗘𝗟 𝗚𝗥𝗨𝗣𝗢👋🏻*\n*╟❧ YA ERA HORA ESTABAMOS ESPERANDO QUE TE VAYAS*\n*╟❧¡𝐀𝐝𝐢𝐨́𝐬!*\n*╚══════════════*'
 conn.spromote = 'Hey @user ya forma parte de staff 👑'
 conn.sdemote = 'jajaja @user ya no eres admins'
 conn.sDesc = 'La descripción ha sido cambiada a \n@desc'

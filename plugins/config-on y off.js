@@ -36,7 +36,7 @@ rows: [{ header: `🎉 BIENVENIDA ${m.isGroup ? chat.welcome ? '✅' : '❌' : `
 { header: `⚜️ SOLO PRIVADOS ${m.isGroup ? chat.antilink ? '✅' : '❌' : `⚠️`}`, title: "", id: `${usedPrefix + command} pconly`, description: `Permitir que solo se use en Chats Privados\n` }, 
 { header: `⚜️ SOLO GRUPOS ${m.isGroup ? chat.antilink ? '✅' : '❌' : `⚠️`}`, title: "", id: `${usedPrefix + command} gconly`, description: `Permitir que solo se use en Chats Grupales\n` }, 
 { header: `✅ LECTURA AUTOMÁTICA ${m.isGroup ? chat.antilink ? '✅' : '❌' : `⚠️`}`, title: "", id: `${usedPrefix + command} autoread`, description: `Dejar los mensajes o chats como Leídos.\n` }, 
-{ header: `🌐 MODO PÚBLICO ${m.isGroup ? chat.antilink ? '✅' : '❌' : `⚠️`}`, title: "", id: `${usedPrefix + command} public`, description: `Habilitar función para que todos puedan usar LoliBot.\n` }]
+{ header: `🌐 MODO PÚBLICO ${m.isGroup ? chat.antilink ? '✅' : '❌' : `⚠️`}`, title: "", id: `${usedPrefix + command} public`, description: `Habilitar función para que todos puedan usar 𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔.\n` }]
 });
         
 let isEnable = /true|enable|(turn)?on|1/i.test(command)

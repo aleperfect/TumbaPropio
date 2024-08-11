@@ -1,26 +1,26 @@
 > <b>🚀 Versión actual: 1.9.5</b>
  
 <p align="center"> 
-<a href="https://github.com/elrebelde21"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=LoliBot-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"></a> 
+<a href="https://github.com/elrebelde21"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"></a> 
 </p>
 
 <p align="center">
-<img src="https://telegra.ph/file/c3396a8d9b8ba43aed33e.jpg" alt="LoliBot-MD" width="900"/>
+<img src="https://telegra.ph/file/c3396a8d9b8ba43aed33e.jpg" alt="𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔-MD" width="900"/>
 </p>
 
 <p align="center">
-<a href="#"><img title="LoliBot-MD" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
+<a href="#"><img title="𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔-MD" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
 <img src="https://i.pinimg.com/originals/d4/3c/90/d43c902873d4db8c85974dfd0798030b.gif" height="28px">
 </p>  
 
 <p align="center">
-<a href="#"><img title="The-LoliBot-MD" src="https://img.shields.io/badge/LEA TODO EL README-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a> 
-<a href="#"><img title="LoliBot-MD" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge">
+<a href="#"><img title="The-𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔-MD" src="https://img.shields.io/badge/LEA TODO EL README-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a> 
+<a href="#"><img title="𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔-MD" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge">
 
 <p align="center">   
-<a href="https://github.com/elrebelde21/LoliBot-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/elrebelde21/LoliBot-MD?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/elrebelde21/LoliBot-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/elrebelde21/LoliBot-MD?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/elrebelde21/The-LoliBot-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/elrebelde21/LoliBot-MD?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/elrebelde21/𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/elrebelde21/𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔-MD?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/elrebelde21/𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/elrebelde21/𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔-MD?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/elrebelde21/The-𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/elrebelde21/𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔-MD?label=Stars&color=yellow&style=flat-square"></a>
 </p> 
 
 <div align="center">
@@ -30,10 +30,10 @@
 <a href="https://www.youtube.com/@elrebelde.21">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
-<a href="https://www.tiktok.com/@lolibot_?_t=8ge2zeRZ04r&_r=1" target="_blank"> <img src="https://img.shields.io/badge/-TikTok-%23E4405F?style=for-the-badge&logo=tiktok&logoColor=black" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
+<a href="https://www.tiktok.com/@𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔_?_t=8ge2zeRZ04r&_r=1" target="_blank"> <img src="https://img.shields.io/badge/-TikTok-%23E4405F?style=for-the-badge&logo=tiktok&logoColor=black" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
 </a>
 
- [![Enlaces](https://img.shields.io/badge/Encontra_todos_los_enlace_en_un_único_lugar-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://atom.bio/lolibot)
+ [![Enlaces](https://img.shields.io/badge/Encontra_todos_los_enlace_en_un_único_lugar-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://atom.bio/𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔)
 </div>
 
 ### 💫 𝗗𝘂𝗱𝗮 𝘀𝗼𝗯𝗿𝗲 𝗲𝗹 𝗯𝗼𝘁? 
@@ -46,8 +46,8 @@
 
 ### ❇️ 𝙂𝙍𝙐𝙋𝙊𝙎 𝙊𝙁𝙄𝘾𝙄𝘼𝙇𝙀𝙎
 
-<a href="https://chat.whatsapp.com/HNDVUxHphPzG3cJHIwCaX5" target="blank"><img src="https://img.shields.io/badge/Grupo LoliBot ofc 1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
-<a href="https://chat.whatsapp.com/H4hxytyGvucIF1k0UAR7es" target="blank"><img src="https://img.shields.io/badge/Grupo LoliBot ofc 2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/HNDVUxHphPzG3cJHIwCaX5" target="blank"><img src="https://img.shields.io/badge/Grupo 𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔 ofc 1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
+<a href="https://chat.whatsapp.com/H4hxytyGvucIF1k0UAR7es" target="blank"><img src="https://img.shields.io/badge/Grupo 𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔 ofc 2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/IO5k0UOF7hOJHE1eH3Fcxh" target="blank"><img src="https://img.shields.io/badge/🐈 𝐆𝐚𝐭𝐚𝐁𝐨𝐭 & 𝐋𝐨𝐥𝐢𝐁𝐨𝐭 🥳-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/IstOAq2RnBx687WhQpOYK8" target="blank"><img src="https://img.shields.io/badge/𝐄𝐧𝐥𝐚𝐜𝐞 𝐋𝐨𝐥𝐢𝐁𝐨𝐭 -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/Jpshmvl9Ey4K30zKHoK20q" target="blank"><img src="https://img.shields.io/badge/💫 𝘾𝙤𝙢𝙪𝙣𝙞𝙙𝙖𝙙 𝙇𝙤𝙡𝙞𝘽𝙤𝙩 🥳-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -68,13 +68,13 @@
 termux-setup-storage
 ```
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/elrebelde21/LoliBot-MD/master/install.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/elrebelde21/𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔-MD/master/install.sh | bash
 ```
 -----
 ### 📁 (OPCIÓN 2) 𝐀𝐂𝐓𝐈𝐕𝐀 𝐄𝐋 𝐓𝐄𝐑𝐌𝐔𝐗 - 𝘼𝙍𝘾𝙃𝙄𝙑𝙊𝙎 
 > **Note** Descargué y Descomprime
-### [`LoliBot-MD ~ Archivos`](https://github.com/elrebelde21/LoliBot-MD/archive/refs/heads/master.zip)
-[![blog](https://img.shields.io/badge/Termux-LoliBotMD-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+### [`𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔-MD ~ Archivos`](https://github.com/elrebelde21/𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔-MD/archive/refs/heads/master.zip)
+[![blog](https://img.shields.io/badge/Termux-𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔MD-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://youtu.be/i1xjB4bmYCc?si=JBYC22-3mBkLpB8c)
 ```bash
 termux-setup-storage
@@ -83,7 +83,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-cd storage/downloads/LoliBot-MD-master/LoliBot-MD-master 
+cd storage/downloads/𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔-MD-master/𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔-MD-master 
 ```
 ```bash
 yarn install
@@ -99,22 +99,22 @@ npm start
 ```bash
 𝐄𝐒𝐂𝐑𝐈𝐁𝐄 𝐋𝐎𝐒 𝐒𝐈𝐆𝐔𝐈𝐄𝐍𝐓𝐄𝐒 𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐔𝐍𝐎 𝐏𝐎𝐑 𝐔𝐍𝐎:
 > cd 
-> cd LoliBot-MD
+> cd 𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔-MD
 > npm start
 ```
 ### `𝐎𝐁𝐓𝐄𝐍𝐄𝐑 𝐎𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐆𝐎 𝐐𝐑 
 ```bash
 𝐄𝐒𝐂𝐑𝐈𝐁𝐄 𝐋𝐎𝐒 𝐒𝐈𝐆𝐔𝐈𝐄𝐍𝐓𝐄𝐒 𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐔𝐍𝐎 𝐏𝐎𝐑 𝐔𝐍𝐎:
 > cd 
-> cd LoliBot-MD
+> cd 𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔-MD
 > rm -rf BotSession
 > npm start
 ```          
 -----
 ### 🟢 INFINITY HOST
-[![blog](https://img.shields.io/badge/infinity-LoliBot-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+[![blog](https://img.shields.io/badge/infinity-𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://youtu.be/o6ZSpMOsvHs?si=fzwZIDN5LPE1w0pI)
-> Activar **LoliBot-MD** 24/7 activo en Infinity-Host
+> Activar **𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔-MD** 24/7 activo en Infinity-Host
 
 <a href="https://dash.infinitywa-host.com"><img src="https://telegra.ph/file/1a1cebe11109c5d366e6d.jpg" height="225px"></a>
 ### Información del Host
@@ -126,7 +126,7 @@ npm start
 - **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A)
 - **Support:** [`Bot exclusivo`](https://wa.me/message/FETBF7YBO37CG1)
 
-- [x] **Configuración** <details><summary>**Ajustes del Servidor - LoliBot-MD**</summary><img src="https://qu.ax/CqMG.jpg"></details>
+- [x] **Configuración** <details><summary>**Ajustes del Servidor - 𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔-MD**</summary><img src="https://qu.ax/CqMG.jpg"></details>
 ---- 
 #### 🟢 CAFIREXOS HOST
 
@@ -141,24 +141,24 @@ npm start
 - **Correo:** [`Aquí`](mailto:contacto@cafirexos.com)
 - **Contacto:** [`Diego Flores`](https://wa.me/50497150165)
 
-- [x] **Configuración** <details><summary>**Ajustes del Servidor - LoliBot-MD**</summary><img src="https://telegra.ph/file/6438b328371c75e9e1ec7.jpg"></details>
+- [x] **Configuración** <details><summary>**Ajustes del Servidor - 𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔-MD**</summary><img src="https://telegra.ph/file/6438b328371c75e9e1ec7.jpg"></details>
 ----
 ### ⚡ ACTIVA EL REPLIT
-[![blog](https://img.shields.io/badge/Lolibot-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+[![blog](https://img.shields.io/badge/𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://youtu.be/SMjCcfuyWQE)
-<a target="_blank" href="https://replit.com/github/elrebelde21/LoliBot-MD"><img alt="Run on Replit" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"></a>
-<a href="https://replit.com/github/elrebelde21/LoliBot-MD"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="29px"></a>
+<a target="_blank" href="https://replit.com/github/elrebelde21/𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔-MD"><img alt="Run on Replit" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"></a>
+<a href="https://replit.com/github/elrebelde21/𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔-MD"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="29px"></a>
 ------------------
-- [x] Resultado <details><summary>Importar Repositorio - The-LoliBot-MD</summary><img src="https://i.imgur.com/GQyRnMf.jpg"></details>
+- [x] Resultado <details><summary>Importar Repositorio - The-𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔-MD</summary><img src="https://i.imgur.com/GQyRnMf.jpg"></details>
 ----  
 ### `📝 NOTA 📝`
 ```bash
-🔸ESTE REPOSITORIO SE PUBLICA LA VERSIÓN ACTUAL|OFICIAL DE LOLIBOT-MD
+🔸ESTE REPOSITORIO SE PUBLICA LA VERSIÓN ACTUAL|OFICIAL DE 𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔-MD
 🔸ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
 🔸SI VAS A EDITAR POR COMPLETO DEJA LOS CRÉDITOS DEL BOT
 🔸ATENTO A LAS NUEVAS ACTUALIZACIÓNES QUE SE HAGAN EN ESTE REPOSITORIO
 🔸EL ADD/KICK PUEDEN OCASIONAR QUE EL NÚMERO SE VAYA A SOPORTE POR ELLO SE ACTIVA CON #enable restrict
-🔸 LOLIBOT-MD, NO SE HACE RESPONSABLE DEL USO, NÚMERO, PRIVACIDAD Y CONTENIDO MANDADO, O USADO O GESTIONADO POR USTEDES O EL BOT (usarlo bajo tu responsabilidad). 
+🔸 𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔-MD, NO SE HACE RESPONSABLE DEL USO, NÚMERO, PRIVACIDAD Y CONTENIDO MANDADO, O USADO O GESTIONADO POR USTEDES O EL BOT (usarlo bajo tu responsabilidad). 
 ```
 ----
 

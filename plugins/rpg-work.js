@@ -28,7 +28,7 @@ function pickRandom(list) {
 }
 
 global.work = ['Eres un maestro alquimista, destilando misteriosas pociones en busca de secretos perdidos. obtiene: ', 'Violarte al que dijo que los bots se crean con termux obtienes:', 
-  'Te conviertes en un intrépido cazador de tesoros, explorando lugares olvidados en busca de riquezas escondidas. obtiene:', "cuidarte el grupos del lolibot ganar", "Ayudas a moderar el grupo de GataBot por", "Ayudas a moderar el grupo de LoliBot por", "Ayudas a moderar el grupo de The-Shadow-Brokers-Bot por", "Trabaja para una empresa militar privada, ganando", "Organiza un evento de cata de vinos y obtiene",
+  'Te conviertes en un intrépido cazador de tesoros, explorando lugares olvidados en busca de riquezas escondidas. obtiene:', "cuidarte el grupos del 𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔 ganar", "Ayudas a moderar el grupo de GataBot por", "Ayudas a moderar el grupo de 𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔 por", "Ayudas a moderar el grupo de The-Shadow-Brokers-Bot por", "Trabaja para una empresa militar privada, ganando", "Organiza un evento de cata de vinos y obtiene",
   'Diriges un negocio de transmutación de metales, convirtiendo lo común en valiosos tesoros. obtiene:',
   'Exploras antiguas ruinas y encuentras una reliquia valiosa que te otorga conocimientos ancestrales. obtiene:',
   'Trabajas como mercenario en una guerra épica, enfrentándote a desafíos con tu habilidad y coraje. obtiene:',

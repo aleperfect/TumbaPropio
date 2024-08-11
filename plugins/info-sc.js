@@ -42,7 +42,7 @@ token: '9',
 curreyCode: 'IDR',
 totalCurrencyCode: '>〰<',
 totalAmount1000: '1000000',
-sellerJid: 'https://github.com/elrebelde21/The-LoliBot-MD',
+sellerJid: 'https://github.com/elrebelde21/The-𝑻𝒖𝒎𝒃𝒂𝒅𝒐𝑽𝒆𝒏𝒕𝒂𝒔-MD',
 thumbnail: fs.readFileSync('./src/avatar_contact.png')
 }}, {contextInfo: null, quoted: m})
 conn.relayWAMessage(prep)
